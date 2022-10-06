@@ -1,0 +1,11 @@
+.name{
+color: blue ;
+
+}
+
+#img{
+	height:300px;
+	width:300px;
+	border:2px dotted gray;
+	border-radius:50%;
+}
